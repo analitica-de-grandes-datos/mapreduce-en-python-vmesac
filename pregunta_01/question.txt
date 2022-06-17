@@ -13,4 +13,4 @@ usando el algoritmo Map/Reduce. Para ello, complete el codigo del mapper
 Pruebe el algoritmo con 
 
 $ cat credit.csv | python mapper.py | sort | python reducer.py 
-
+cat data.csv | python3 mapper.py | sort | python3 reducer.py 
